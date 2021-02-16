@@ -1,0 +1,18 @@
+{
+    "name": "authkey/authkey-php-sdk",
+    "description": "This library will enable users to send messages using authkey APIs",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AuthkeyPhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ritesh Prasad",
+            "email": "ritesh@datagenit.com"
+        }
+    ],
+    "require": {}
+}
